@@ -9,4 +9,5 @@ We can define the gain, time constants and object delay in it. Then we have two 
 After completing the program, we get a graph of the decreasing target function and the designated PID controller settings. In addition, we also receive information about the properties of the object - overshoot, control time, etc.
 
 ## Sample application operation
+![github1](https://user-images.githubusercontent.com/59517489/117866555-92f0ea00-b297-11eb-8a38-0b46f6c17c49.jpg)
 
